@@ -10,7 +10,7 @@ You and your friends can play event private matches by using this tool.
 * Even your level 1 character can play event private matches
 * The event points you get is not recorded
 
-## Installation and Usage
+## Installation
 Here's how to install this tool:
 1. Download the latest zip file from my github.
 2. Unzip the zip file. You will get the tool as an exe file.
