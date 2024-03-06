@@ -1,4 +1,4 @@
-# Monitor HP tool for SAS4
+# Event private match tool for SAS4
 You and your friends can play event private matches by using this tool.
 
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
