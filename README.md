@@ -3,12 +3,15 @@ You and your friends can play event private matches by using this tool.
 
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 
+## Videos
+* Event private match tool: https://youtu.be/rKqhi1AIuNU
+
 ## Features of event private matches
 * You can play any events anytime
 * You can match with your friends easily
 * You can choose any maps
-* Even your level 1 character can play event private matches
 * The event points you get is not recorded
+* Even your level 1 character can play event private matches
 
 ## Installation
 Here's how to install this tool:
@@ -18,10 +21,10 @@ Here's how to install this tool:
 ## Usage
 Host player:
 1. Run sas4 app
-2. Display "Choose map" screen in "Private Matche" of "MULTIPLAY"
+2. Display "Choose Map" screen in "Private Matche" of "MULTIPLAY"
 3. Run the tool
-4. Input `l` (Last Man Standing), `a` (Apocalypse) or `v` (Virus Samples)
-5. Click "choose Map" button
+4. Input `a` (Apocalypse), `l` (Last Man Standing) or `v` (Virus Samples)
+5. Click "Choose Map" button
 6. Share the invite code with your friends
 
 Non host players:
@@ -30,11 +33,11 @@ Non host players:
 
 ## Operating requirements
 The requirements for this tool are as follows:
-* SAS4 version 2.0.2
+* SAS4 version 2.0.2 (Steam)
 * Windows 64bit version
 
 If SAS4 is updated, this tool will also need to be updated.
-Unfortunately, this tool is not compatible with mobile.
+Unfortunately, this tool is not compatible with mobile. 
 
 ## Version history
 ### 20240306
@@ -42,6 +45,7 @@ Unfortunately, this tool is not compatible with mobile.
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
+* The source code of this tool is not public. Because it is easy to change into a dangerous tool.
 * I will not be held responsible if any scandal occurs to you.
 
 ## Donate me
