@@ -5,7 +5,7 @@ You can change the game mode of SAS4 by using this tool.
 
 ## Videos
 * Event private match tool: https://youtu.be/rKqhi1AIuNU
-* Game mode changer: coming soon
+* Game mode changer: https://youtu.be/GfE0XcDc7OI
 
 ## Operating requirements
 The requirements for this tool are as follows:
