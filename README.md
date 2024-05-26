@@ -54,6 +54,10 @@ Non host players in private match:
 * Play zombie hotspot contract in any maps in singleplayer and private match anytime
 * Play boss hunt in any planets in singleplayer and private match
 * Your character is required level 5 or higher as this tool needs perks screen.
+### 20240525 (for android)
+SAS4-apoc for android
+* You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
+* The link: https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
