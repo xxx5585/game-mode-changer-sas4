@@ -57,7 +57,7 @@ Non host players in private match:
 ### 20240525 (for android)
 SAS4-apoc for android
 * You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
-* The link: https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525
+* You can download the APK file from [releases 20240525](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525).
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
