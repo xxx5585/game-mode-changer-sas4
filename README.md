@@ -59,6 +59,12 @@ SAS4-apoc for android
 * You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
 * You can download the APK file from [releases 20240525](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525).
 
+### 20240614
+* You can select all contracts in singleplayer and private match
+* You can change the seed in singleplayer
+* You can predict the boss at the loading screen
+* [releases 20240614](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240614)
+
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
 * The source code of this tool is not public. Because it is easy to change into a dangerous tool.
