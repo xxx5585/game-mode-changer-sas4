@@ -41,6 +41,7 @@ Non host players in private match:
   * You can choose any maps
   * The event points you get is not recorded
   * Even your level 1 character can play event private matches
+
 ### 20240501
 * Renamed from "Event private match tool" to "Game mode changer"
 * You can change more game modes in singleplayer and private match
@@ -54,6 +55,7 @@ Non host players in private match:
 * Play zombie hotspot contract in any maps in singleplayer and private match anytime
 * Play boss hunt in any planets in singleplayer and private match
 * Your character is required level 5 or higher as this tool needs perks screen.
+
 ### 20240525 (for android)
 SAS4-apoc for android
 * You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
@@ -69,6 +71,15 @@ SAS4-apoc for android
 ### 20240721
 * You can continue to play events (Apocalypse, Last Man Standing, Virus Samples) in multiplayer
 * [releases 20240721](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240721)
+
+### 20240801 (for android)
+SAS4-gmc for android
+* You can always play zombie hotspot in singleplayer
+* You can always create zombie hotspot in private match
+* You can always play apocalypse in singleplayer
+* You can always create apocalypse in private match
+* Your character needs level 5+
+* You can download the APK file from [releases 20240801](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240801).
 
 
 ## Notes
