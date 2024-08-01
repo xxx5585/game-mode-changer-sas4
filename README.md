@@ -74,11 +74,11 @@ SAS4-apoc for android
 
 ### 20240801 (for android)
 SAS4-gmc for android
-* You can always play zombie hotspot in singleplayer
-* You can always create zombie hotspot in private match
-* You can always play apocalypse in singleplayer
-* You can always create apocalypse in private match
-* Your character needs level 5+
+* You can play zombie hotspot in singleplayer at any time
+* You can create zombie hotspot in private match at any time
+* You can play apocalypse in singleplayer at any time
+* You can create apocalypse in private match at any time
+* Character must be level 5 or above
 * You can download the APK file from [releases 20240801](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240801).
 
 
