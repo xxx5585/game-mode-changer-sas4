@@ -4,8 +4,7 @@ You can change the game mode of SAS4 by using this tool.
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 
 ## Videos
-* Event private match tool: https://youtu.be/rKqhi1AIuNU
-* Game mode changer: https://youtu.be/GfE0XcDc7OI
+* [Game Mode Changer Introduction Video List](https://www.youtube.com/playlist?list=PLsF9GAvKHgm6jQctz_MV0cFTj2AqtM5D9)
 
 ## Operating requirements
 The requirements for this tool are as follows:
@@ -32,7 +31,8 @@ Non host players in private match:
 1. Run sas4 app
 2. Input the invite code in "Private Matche" of "MULTIPLAY"
 
-## Version history and Features
+## Version history and Features for Steam
+
 ### 20240306
 * The first release
 * you can play event private matches with your friends anytime anymaps.
@@ -56,24 +56,26 @@ Non host players in private match:
 * Play boss hunt in any planets in singleplayer and private match
 * Your character is required level 5 or higher as this tool needs perks screen.
 
-### 20240525 (for android)
-SAS4-apoc for android
-* You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
-* You can download the APK file from [releases 20240525](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525).
-
 ### 20240614
 * You can select all contracts in singleplayer and private match
 * You can change the seed in singleplayer
 * You can predict the boss at the loading screen
 * [releases 20240614](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240614)
 
-
 ### 20240721
 * You can continue to play events (Apocalypse, Last Man Standing, Virus Samples) in multiplayer
 * [releases 20240721](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240721)
 
-### 20240801 (for android)
-SAS4-gmc for android
+
+## Version history and Features for Android
+
+### 20240525
+* App name "SAS4-apoc"
+* You can play apocalypse of singleplayer and create apocalypse private matches on your android devices.
+* You can download the APK file from [releases 20240525](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240525).
+
+### 20240801
+* App name "SAS4-gmc"
 * You can play zombie hotspot in singleplayer at any time
 * You can create zombie hotspot in private match at any time
 * You can play apocalypse in singleplayer at any time
