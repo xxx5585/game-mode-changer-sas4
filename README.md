@@ -66,6 +66,11 @@ Non host players in private match:
 * You can continue to play events (Apocalypse, Last Man Standing, Virus Samples) in multiplayer
 * [releases 20240721](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240721)
 
+### 20240905
+* Supported SAS4 version 2.1
+* Improved game mode changes to be applied persistently
+* [releases 20240905](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240905)
+
 
 ## Version history and Features for Android
 
@@ -82,6 +87,17 @@ Non host players in private match:
 * You can create apocalypse in private match at any time
 * Character must be level 5 or above
 * You can download the APK file from [releases 20240801](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240801).
+
+### 20240907
+* App name "SAS4-GMC"
+* Supported SAS4 version 2.1
+* You can play zombie hotspot in singleplayer at any time
+* You can create zombie hotspot in private match at any time
+* You can play apocalypse in singleplayer at any time
+* You can create apocalypse in private match at any time
+* Character must be level 5 or above
+* You can download the APK file from [releases 20240907](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240907).
+
 
 
 ## Notes
