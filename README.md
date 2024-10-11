@@ -80,7 +80,7 @@ Non host players in private match:
 * You can change the seed in singleplayer
 * You can continue Apocalypse, Last man standing, Virus samples even if you got disconnected
 * You can predict the bosses 
-* [releases 20240905](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010)
+* [releases 20241010](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010)
 
 
 ## Version history and Features for Android
