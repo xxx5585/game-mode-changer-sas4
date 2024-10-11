@@ -8,8 +8,9 @@ You can change the game mode of SAS4 by using this tool.
 
 ## Operating requirements
 The requirements for this tool are as follows:
-* SAS4 version 2.0.2 (Steam)
-* Windows 64bit version
+* SAS4 version 2.2
+* Windows 64bit
+* android 5.0+ 32bit and 64bit
 
 If SAS4 is updated, this tool will also need to be updated.
 Unfortunately, this tool is not compatible with mobile. 
@@ -71,6 +72,16 @@ Non host players in private match:
 * Improved game mode changes to be applied persistently
 * [releases 20240905](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240905)
 
+### 20241010
+* Supported SAS4 version 2.2
+* You can change the game mode to Apocalypse, Last man standing, Virus samples in singleplayer and multiplayer
+* You can change the game mode of contract to any contract
+* You can change the map of contract
+* You can change the seed in singleplayer
+* You can continue Apocalypse, Last man standing, Virus samples even if you got disconnected
+* You can predict the bosses 
+* [releases 20240905](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010)
+
 
 ## Version history and Features for Android
 
@@ -97,6 +108,16 @@ Non host players in private match:
 * You can create apocalypse in private match at any time
 * Character must be level 5 or above
 * You can download the APK file from [releases 20240907](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20240907).
+
+### 20241010
+* App name "SAS4-GMC"
+* Supported SAS4 version 2.2
+* You can play zombie hotspot in singleplayer at any time
+* You can create zombie hotspot in private match at any time
+* You can play apocalypse in singleplayer at any time
+* You can create apocalypse in private match at any time
+* Character must be level 5 or above
+* You can download the APK file from [releases 20241010-m](https://github.com/xxx5585/game-mode-changer-sas4/tree/20241010-m).
 
 
 
