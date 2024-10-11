@@ -117,7 +117,7 @@ Non host players in private match:
 * You can play apocalypse in singleplayer at any time
 * You can create apocalypse in private match at any time
 * Character must be level 5 or above
-* You can download the APK file from [releases 20241010-m](https://github.com/xxx5585/game-mode-changer-sas4/tree/20241010-m).
+* You can download the APK file from [releases 20241010-m](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010-m).
 
 
 
