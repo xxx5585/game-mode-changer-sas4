@@ -6,32 +6,6 @@ You can change the game mode of SAS4 by using this tool.
 ## Videos
 * [Game Mode Changer Introduction Video List](https://www.youtube.com/playlist?list=PLsF9GAvKHgm6jQctz_MV0cFTj2AqtM5D9)
 
-## Operating requirements
-The requirements for this tool are as follows:
-* SAS4 version 2.2
-* Windows 64bit
-* android 5.0+ 32bit and 64bit
-
-If SAS4 is updated, this tool will also need to be updated.
-Unfortunately, this tool is not compatible with mobile. 
-
-## Installation
-Here's how to install this tool:
-1. Download the latest zip file from this github.
-2. Unzip the zip file. You will get the tool as an exe file.
-
-## Usage
-A player:
-1. Run sas4 app
-2. Show "Perks" screen in singleplayer or private match
-3. Run this tool
-4. Input a game mode on this tool
-5. Start the singleplayer or share an invite code with your friends
-
-Non host players in private match:
-1. Run sas4 app
-2. Input the invite code in "Private Matche" of "MULTIPLAY"
-
 ## Version history and Features for Steam
 
 ### 20240306
@@ -82,6 +56,10 @@ Non host players in private match:
 * You can predict the bosses 
 * [releases 20241010](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010)
 
+### 20241218
+* Supported SAS4 version 2.2.2
+* [releases 20241218](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241218)
+
 
 ## Version history and Features for Android
 
@@ -120,11 +98,10 @@ Non host players in private match:
 * You can download the APK file from [releases 20241010-m](https://github.com/xxx5585/game-mode-changer-sas4/releases/tag/20241010-m).
 
 
-
 ## Notes
-* Do not distribute this tool to others. In return, I allow you to share this github link with others.
+* Do not distribute this tool to others for security. Instead, share this link with others.
+* I will not be responsible for any damage you may incur.
 * The source code of this tool is not public. Because it is easy to change into a dangerous tool.
-* I will not be held responsible if any scandal occurs to you.
 
 ## Donate me
 I provide this tool for free.
