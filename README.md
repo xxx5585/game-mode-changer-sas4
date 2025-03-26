@@ -3,9 +3,6 @@ You can change the game mode of SAS4 by using this tool.
 
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 
-## Videos
-* [Game Mode Changer Introduction Video List](https://www.youtube.com/playlist?list=PLsF9GAvKHgm6jQctz_MV0cFTj2AqtM5D9)
-
 ## Version history and Features for Steam
 
 ### 20240306
